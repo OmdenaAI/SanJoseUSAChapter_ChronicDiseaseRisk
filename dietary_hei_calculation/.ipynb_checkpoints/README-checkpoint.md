@@ -184,12 +184,13 @@ at abdelhaq.fste@gmail.com or contact me using my Slack handle: https://sanjosec
             </ul
 </p>
    <ul>
-    <li> Density of each component except (Fatty acids,  added sugar and sturated fat:<br><br>
-$\large{density\_x = \frac{dietary\_constituent}{dietary\_constituent}\times{1000}}$
+<li> 
+    Density of each component except (Fatty acids,  added sugar and sturated fat:<br><br>
+$\large {density\_x = \frac{dietary\_constituent}{energy\_kcal \times 1000}}$
 
 </li>
     <li>
-        Fatty acid densities:<br><br>
+        Fatty acids density:<br><br>
 $\large {fatty\_acid\_density\_x = \frac{monounsaturated\_fats\_g + polyunsaturated\_fats\_g}{saturated\_fats\_g}}$
     
 </li>
