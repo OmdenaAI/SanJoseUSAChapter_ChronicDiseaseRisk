@@ -20,7 +20,6 @@ at abdelhaq.fste@gmail.com or contact me using my Slack handle: https://sanjosec
     conda activate nhanes
     # Launch jupyter-lab and enjoy
     jupyter-lab
-    </code>
 ```
 
 <h2> 1) Merging Files, Deriving sums</h2>
